@@ -1,3 +1,4 @@
 def print_hello():
-    return "Hello Python!"
+    return print("Hello Python!")
+
 print_hello()
